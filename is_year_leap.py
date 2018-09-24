@@ -6,7 +6,7 @@ def is_year_leap(year):
         if (year % 400) == 0:
             return 'Високосный год'
         else:
-            return('Обычный год')
+            return('Обычный')
     else:
         return 'Високосный год'
 
