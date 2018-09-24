@@ -1,3 +1,4 @@
+#https://pythonworld.ru/osnovy/tasks.html #4
 def season(month):
     if month in (12, 1, 2):
         return 'Зима'
