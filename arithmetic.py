@@ -1,3 +1,4 @@
+#https://pythonworld.ru/osnovy/tasks.html #1
 def arithmetic(a, b, c):
     if c == '+':
         oper_ab = a + b
