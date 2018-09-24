@@ -12,4 +12,5 @@ def season(month):
     
 
 if __name__ == "__main__":
-    print (season(int(input())))
+    season_func = season(int(input()))
+    print (season_func)
